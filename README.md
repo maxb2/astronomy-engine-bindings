@@ -2,4 +2,5 @@
 
 Rust bindings for [astronomy-engine](https://github.com/cosinekitty/astronomy) using [bindgen](https://github.com/rust-lang/rust-bindgen).
 
-> You need to have `clang` installed to use `bindgen`.
+> - You need to have `clang` installed to use `bindgen`.
+> - Versions in this repository tracks versions in `astronomy-engine`.
