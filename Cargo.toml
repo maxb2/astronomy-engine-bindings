@@ -7,7 +7,7 @@ description = "Rust bindings for [astronomy-engine](https://github.com/cosinekit
 homepage = "https://github.com/maxb2/astronomy-engine-rs"
 repository = "https://github.com/maxb2/astronomy-engine-rs"
 readme = "README.md"
-include = ["/src/","/astronomy/source/c"]
+include = ["/src/",  "/build.rs", "/astronomy/source/c"]
 
 [dependencies]
 libc = "0.2.161"
