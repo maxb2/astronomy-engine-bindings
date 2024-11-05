@@ -1,7 +1,12 @@
 [package]
 name = "astronomy-engine-bindings"
-version = "0.1.0"
+version = "2.1.19"
 edition = "2021"
+license = "MIT"
+description = "Rust bindings for [astronomy-engine](https://github.com/cosinekitty/astronomy) using [bindgen](https://github.com/rust-lang/rust-bindgen)."
+homepage = "https://github.com/maxb2/astronomy-engine-rs"
+repository = "https://github.com/maxb2/astronomy-engine-rs"
+readme = "README.md"
 
 [dependencies]
 libc = "0.2.161"
